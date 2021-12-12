@@ -1,0 +1,1 @@
+useEventEmitter hook, inspired from [React: Event Emitter](https://lolahef.medium.com/react-event-emitter-9a3bb0c719).
